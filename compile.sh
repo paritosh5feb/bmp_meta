@@ -1,0 +1,1 @@
+gcc bmpimage1.c -o bmpimage1 -lm
